@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kyFariya
 - 👀 I’m interested in Hardware Design and Verification
-- 🌱 I’m currently learning SV, C++ and UVM Verification
--
+- 🌱 I’m currently learning SV, C++ and UVM based Verification
+
 
 <!---
 kyFariya/kyFariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
