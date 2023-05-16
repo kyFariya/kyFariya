@@ -1,3 +1,5 @@
+// Designer: Fariya
+// Module  : axil
 module axil  #(                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               2   parameter ADDR_WIDTH = 0,
      parameter DATA_WIDTH = 0
  )
